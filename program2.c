@@ -26,6 +26,7 @@ int main()
             }
         }
     }
+    printf("Result of the code :\n");
     for(i=0; i<limit; i++)
     {
         if(arr[i]%2==0)

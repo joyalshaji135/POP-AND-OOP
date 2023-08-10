@@ -27,6 +27,7 @@ int main()
             smallest=arr[i];
         }
     }
+    printf("Result of the code :\n");
     printf("Smallest Number in this Array : %d",smallest);
     printf("\nLargest Number in this Array : %d",largest);
     return 0;
