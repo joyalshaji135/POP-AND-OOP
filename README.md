@@ -42,7 +42,15 @@
                 4
             </td>
             <td>
-                  Write a program to replace all odd numbers in an array with & and print the array in reverse order.
+                  Write a program to store even numbers and odd numbers in separate arrays.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                5
+            </td>
+            <td>
+                  Write a program to print array elements in reverse order and find the 2nd largest number.
             </td>
         </tr>
     </table>
