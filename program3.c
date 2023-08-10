@@ -11,11 +11,11 @@ int main()
     printf("Enter the Elements of an Array :");
     for(i=0; i<limit; i++)
     {
-        scanf("%d",arr[i]);
+        scanf("%d",&arr[i]);
     }
     // Logic of the Program
     printf("Result of the code :\n");
-    for(i=limit; i>0; i--)
+    for(i=limit-1; i>=0; i--)
     {
         if(arr[i]%2==1)
         {

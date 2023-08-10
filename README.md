@@ -29,12 +29,20 @@
                 Write a program to replace all even numbers in an array with $ and print<br>the array in descending order.
             </td>
         </tr>
-  <tr>
+        <tr>
             <td>
-                1
+                3
             </td>
             <td>
-                 Write a program to find the Kth largest and Kth smallest element in an array.
+                  Write a program to replace all odd numbers in an array with & and print the array in reverse order.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                4
+            </td>
+            <td>
+                  Write a program to replace all odd numbers in an array with & and print the array in reverse order.
             </td>
         </tr>
     </table>
