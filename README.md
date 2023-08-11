@@ -125,4 +125,20 @@
                   Write a program to find the sum of array elements which are multiples of 2 and divisible by 4.
             </td>
         </tr>
+        <tr>
+            <td>
+                15
+            </td>
+            <td>
+                  Write a program to find the sum of array elements which are multiples of 10 and store the elements into a new array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
     </table>
