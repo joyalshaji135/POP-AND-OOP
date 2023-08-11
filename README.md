@@ -141,4 +141,85 @@
                   Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
             </td>
         </tr>
+        <tr>
+            <td>
+                17
+            </td>
+            <td>
+                  Write a program to replace multiples of 3 with * and multiples of 7 with #
+            </td>
+        </tr>
+        <tr>
+            <td>
+                18
+            </td>
+            <td>
+                  Write a program to replace multiples of 4 with * and multiples of 6 with $.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                19
+            </td>
+            <td>
+                  Write a program to find the most repeated element in an array
+            </td>
+        </tr>
+        <tr>
+            <td>
+                20
+            </td>
+            <td>
+                  Write a program to find the array element closest to zero.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+
     </table>

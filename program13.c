@@ -23,7 +23,7 @@ int main()
     printf("\n3.1 Sum of Multiple of 3 Prime Number : %d",sum);
     return 0;
 }
-
+// Logic of the Code
 int SumMultipleThree(int size,int num[])
 {
     int i,sum=0;

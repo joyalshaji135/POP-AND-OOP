@@ -17,6 +17,7 @@ int main()
     printf("\nThe Sum of the Prime Numbers : %d",total);
     return 0;
 }
+// Logic of the Code
 int SumPrime(int size,int num[])
 {
     int sum=0;

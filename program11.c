@@ -18,6 +18,7 @@ int main()
     printf("\nSum of Even Numbers : %d",total);
     return 0;
 }
+// Logic of the Code
 int EvenMultiple(int size,int num[])
 {
     int sum=0,divfoursum=0;

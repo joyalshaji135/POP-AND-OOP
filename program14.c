@@ -18,6 +18,7 @@ int main()
     printf("\nSum of the Two Multiples and Four Divisible : %d",total);
     return 0;
 }
+// Logic of the Code
 int SumOfTwoMultAndFourDivi(int size,int arr[])
 {
     int i,sum=0;

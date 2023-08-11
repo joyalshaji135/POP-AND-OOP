@@ -1,11 +1,11 @@
-// Write a program to replace multiples of 3 with * and multiples of 7 with #
+// Write a program to replace multiples of 4 with * and multiples of 6 with $.
 
 #include<stdio.h>
-void MultOfThreeAndMultSeven(int limit,int arr[]);
+void ReplaceLogic(int limit,int arr[]);
 int main()
 {
     int arr[100];
-    int limit,i;
+    int limit, i;
     printf("Enter the Limit of an Array :");
     scanf("%d",&limit);
     printf("Enter the Elements of an Array :");
@@ -13,36 +13,36 @@ int main()
     {
         scanf("%d",&arr[i]);
     }
-    MultOfThreeAndMultSeven(limit,arr);
+    ReplaceLogic(limit,arr);
 }
 // Logic of the Code
-void MultOfThreeAndMultSeven(int limit,int arr[])
+void ReplaceLogic(int limit,int arr[])
 {
     char newarr[100];
     int i;
     for(i=0; i<limit; i++)
     {
-        if(arr[i]%3==0)
+        if(arr[i]%4==0)
         {
             arr[i]=-1;
             newarr[i]='*';
         }
-        if (arr[i]%7==0)
+        if (arr[i]%6==0)
         {
             arr[i]=-1;
-            newarr[i]='#';
+            newarr[i]='$';
         }
     }
     printf("\nReplaced New Array :");
     for(i=0; i<limit; i++)
     {
-        if (arr[i]!=-1)
+        if(arr[i]!=-1)
         {
             printf("%d\t",arr[i]);
         }
-        if (arr[i]==-1)
+        if(arr[i]==-1)
         {
             printf("%c\t",newarr[i]);
-        }       
+        }
     }
 }

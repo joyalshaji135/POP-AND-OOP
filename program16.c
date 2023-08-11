@@ -16,6 +16,7 @@ int main()
     }
     MultFivAndDiviSeven(limit,arr);
 }
+// Logic of the Code
 void MultFivAndDiviSeven(int size,int arr[])
 {
     char newarr[100];
