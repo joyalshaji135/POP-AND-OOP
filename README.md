@@ -175,26 +175,26 @@
         </tr>
         <tr>
             <td>
-                16
+                21
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
-            </td>
-        </tr>
-        <tr>
-            <td>
-                16
-            </td>
-            <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to delete all duplicate elements from an array and reverse the array after deleting.
             </td>
         </tr>
         <tr>
             <td>
-                16
+                22
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to insert element in an array at specified position.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                23
+            </td>
+            <td>
+                  Write a program to print all negative elements in an array.
             </td>
         </tr>
         <tr>

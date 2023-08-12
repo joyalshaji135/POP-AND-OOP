@@ -14,6 +14,7 @@ int main()
         scanf("%d",&arr[i]);
     }
     MultOfThreeAndMultSeven(limit,arr);
+    return 0;
 }
 // Logic of the Code
 void MultOfThreeAndMultSeven(int limit,int arr[])

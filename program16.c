@@ -15,6 +15,7 @@ int main()
         scanf("%d",&arr[i]);
     }
     MultFivAndDiviSeven(limit,arr);
+    return 0;
 }
 // Logic of the Code
 void MultFivAndDiviSeven(int size,int arr[])

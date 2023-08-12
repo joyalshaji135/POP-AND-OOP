@@ -14,6 +14,7 @@ int main()
         scanf("%d",&arr[i]);
     }
     ReplaceLogic(limit,arr);
+    return 0;
 }
 // Logic of the Code
 void ReplaceLogic(int limit,int arr[])
