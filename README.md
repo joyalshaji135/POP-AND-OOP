@@ -199,6 +199,62 @@
         </tr>
         <tr>
             <td>
+                24
+            </td>
+            <td>
+                  Write a program to count the total number of negative elements in an array and find out the sum of positive numbers in the array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                25
+            </td>
+            <td>
+                  Write a program to replace all Even numbers by 0 and Odd numbers by 1.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                26
+            </td>
+            <td>
+                  Write a program to replace all prime numbers by 0 and non-prime numbers by 1
+            </td>
+        </tr>
+        <tr>
+            <td>
+                27
+            </td>
+            <td>
+                  Write a program to sort in descending order and reverse an array
+            </td>
+        </tr>
+        <tr>
+            <td>
+                28
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                29
+            </td>
+            <td>
+                  Write a program to sort elements of array in descending order and replace elements at odd positions with *.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
                 16
             </td>
             <td>
@@ -221,5 +277,68 @@
                   Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
             </td>
         </tr>
-
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
+        <tr>
+            <td>
+                16
+            </td>
+            <td>
+                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+            </td>
+        </tr>
     </table>
