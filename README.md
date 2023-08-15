@@ -247,10 +247,10 @@
         </tr>
         <tr>
             <td>
-                16
+                30
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to find the average of negative and positive numbers in an array.
             </td>
         </tr>
         <tr>
