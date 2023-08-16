@@ -255,42 +255,43 @@
         </tr>
         <tr>
             <td>
-                16
+                31
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
-            </td>
-        </tr>
-        <tr>
-            <td>
-                16
-            </td>
-            <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to separate positive and negative numbers in separate arrays.
             </td>
         </tr>
         <tr>
             <td>
-                16
+                32
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
-            </td>
-        </tr>
-        <tr>
-            <td>
-                16
-            </td>
-            <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to count the total number of unique elements in an array
             </td>
         </tr>
         <tr>
             <td>
-                16
+                33
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to delete all prime numbers in an array and find out the sum of array elements after deleting.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                34
+            </td>
+            <td>
+                  Write a program to count the total number of duplicate elements in an array.
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                35
+            </td>
+            <td>
+                  Write a program to print all prime numbers in an array
             </td>
         </tr>
         <tr>
