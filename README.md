@@ -266,7 +266,7 @@
                 32
             </td>
             <td>
-                  Write a program to count the total number of unique elements in an array
+                  Write a program to count the total number of unique elements in an array.
             </td>
         </tr>
         <tr>
@@ -290,52 +290,52 @@
                 35
             </td>
             <td>
-                  Write a program to print all prime numbers in an array
+                  Write a program to print all prime numbers in an array.
             </td>
         </tr>
         <tr>
             <td>
-                16
+                36
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
-            </td>
-        </tr>
-        <tr>
-            <td>
-                16
-            </td>
-            <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to print all unique elements in an array.
             </td>
         </tr>
         <tr>
             <td>
-                16
+                37
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
-            </td>
-        </tr>
-        <tr>
-            <td>
-                16
-            </td>
-            <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to merge two arrays sorted in descending order.
             </td>
         </tr>
         <tr>
             <td>
-                16
+                38
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to count the frequency of each element of an array.
             </td>
         </tr>
         <tr>
             <td>
-                16
+                39
+            </td>
+            <td>
+                  Write a program to find the largest and smallest number in an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                40
+            </td>
+            <td>
+                  Write a program to separate odd and even numbers in separate arrays.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
             </td>
             <td>
                   Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’

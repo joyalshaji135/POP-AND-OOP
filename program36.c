@@ -1,7 +1,7 @@
-// Write a program to print all prime numbers in an array
+// Write a program to print all unique elements in an array.
 
 #include<stdio.h>
-void PrintPrime(int limit,int arr[]);
+void UniquePrint(int limit,int arr[]);
 int main()
 {
     int arr[100];
@@ -13,28 +13,33 @@ int main()
     {
         scanf("%d",&arr[i]);
     }
-    PrintPrime(limit,arr);
+    UniquePrint(limit,arr);
     return 0;
 }
-// Logic of the Code
-void PrintPrime(int limit,int arr[])
+// Logic of an Array 
+void UniquePrint(int limit,int arr[])
 {
     int i,j,flag;
-    printf("Prime Numbers : ");
+    printf("Unique Elements are Printed :");
     for(i=0; i<limit; i++)
     {
-        flag=1;
-        for(j=2; j<arr[i]; j++)
+        if(arr[i]!=-1)
         {
-            if(arr[i]%j==0)
+        flag=1;
+        for(j=i+1; j<limit; j++)
+        {
+            if(arr[i]==arr[j])
             {
                 flag=0;
+                arr[j]=-1;
                 break;
             }
         }
-        if(flag==1 && arr[i]!=1)
+        if (flag==0)
         {
             printf("%d\t",arr[i]);
+        }
+        
         }
     }
 }
