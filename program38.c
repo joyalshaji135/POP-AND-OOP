@@ -16,6 +16,7 @@ int main()
     }
     FrequencyArray(limit,arr,frequency);
 }
+// Logic of the Code
 void FrequencyArray(int limit,int arr[],int frequency[])
 {
     int i,j,count;

@@ -24,6 +24,7 @@ int main()
     MergeTwoArray(limit1,limit2,arr1,arr2);
     return 0;
 }
+// Logic of the Code
 void MergeTwoArray(int limit1,int limit2,int arr1[],int arr2[])
 {
     int i,j,limit3;

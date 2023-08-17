@@ -20,6 +20,7 @@ int main()
     printf("\nThe Largest Number is : %d",largest_number);
     return 0;
 }
+// Logic of the Code
 int SmallestNumber(int limit,int arr[])
 {
     int i;
