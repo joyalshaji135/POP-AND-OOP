@@ -367,10 +367,10 @@
         </tr>
         <tr>
             <td>
-                41
+                45
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to separate prime and non-prime numbers in separate arrays.
             </td>
         </tr>
         <tr>
