@@ -338,7 +338,143 @@
                 41
             </td>
             <td>
-                  Write a program to replace multiples of 5 with # and replace the numbers which are divisible by 7 with ‘+’
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                42
+            </td>
+            <td>
+                  Write a program to find the third largest number in an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                43
+            </td>
+            <td>
+                  Write a program to find the second smallest number in an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                44
+            </td>
+            <td>
+                  Write a program to find the two repeating elements in a given array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                41
+            </td>
+            <td>
+                  Write a program to delete an element at a specific position from an array.
             </td>
         </tr>
     </table>
