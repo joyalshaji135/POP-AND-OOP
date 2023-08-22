@@ -375,7 +375,47 @@
         </tr>
         <tr>
             <td>
-                41
+                46
+            </td>
+            <td>
+                  Write a program to move all zeros(0’s) to the end of a given array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                47
+            </td>
+            <td>
+                  Write a program to move all zeros(0’s) to the beginning of a given array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                48
+            </td>
+            <td>
+                  Write a program to delete all duplicate elements from an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                49
+            </td>
+            <td>
+                  Write a program to insert element in an array at specified position.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                50
+            </td>
+            <td>
+                  Write a program to print all postive elements in an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                51
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.
@@ -383,7 +423,7 @@
         </tr>
         <tr>
             <td>
-                41
+                52
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.
@@ -391,7 +431,7 @@
         </tr>
         <tr>
             <td>
-                41
+                53
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.
@@ -399,7 +439,7 @@
         </tr>
         <tr>
             <td>
-                41
+                54
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.
@@ -407,7 +447,7 @@
         </tr>
         <tr>
             <td>
-                41
+                55
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.
@@ -415,7 +455,7 @@
         </tr>
         <tr>
             <td>
-                41
+                56
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.
@@ -423,7 +463,7 @@
         </tr>
         <tr>
             <td>
-                41
+                57
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.
@@ -431,47 +471,7 @@
         </tr>
         <tr>
             <td>
-                41
-            </td>
-            <td>
-                  Write a program to delete an element at a specific position from an array.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                41
-            </td>
-            <td>
-                  Write a program to delete an element at a specific position from an array.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                41
-            </td>
-            <td>
-                  Write a program to delete an element at a specific position from an array.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                41
-            </td>
-            <td>
-                  Write a program to delete an element at a specific position from an array.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                41
-            </td>
-            <td>
-                  Write a program to delete an element at a specific position from an array.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                41
+                58
             </td>
             <td>
                   Write a program to delete an element at a specific position from an array.

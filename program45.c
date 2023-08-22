@@ -20,6 +20,7 @@ int main()
     PrimeAndNonPrime(limit,arr);
     return 0;
 }
+// Logic of the Code
 void PrimeAndNonPrime(int limit,int arr[])
 {
     int i,j,flag;
