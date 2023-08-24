@@ -1,7 +1,8 @@
-// Write a program to insert element in an array at specified position
+// Write a program to insert element in an array at specified position And identify Duplicate Elements
 
 #include<stdio.h>
 void InsertNewElement(int limit,int pos,int value,int arr[]);
+void DuplicateElement(int limit,int arr[]);
 int main()
 {
     int arr[100];
@@ -31,6 +32,30 @@ void InsertNewElement(int limit,int pos,int value,int arr[])
     arr[pos-1]=value;
 
     printf("\nInserted New Array :\t");
+    for(i=0; i<=limit; i++)
+    {
+        printf("%d\t",arr[i]);
+    }
+    DuplicateElement(limit,arr);
+}
+void DuplicateElement(int limit,int arr[])
+{
+    int i,j,k;
+    for(i=0; i<=limit; i++)
+    {
+        for(j=i+1; j<=limit; j++)
+        {
+            if(arr[i]==arr[j])
+            {
+                for(k=j; k<=limit; k++)
+                {
+                    arr[k]=arr[k+1];
+                }
+                limit--;
+            }
+        }
+    }
+    printf("\nDelete All Duplicate Elements in an Array :");
     for(i=0; i<=limit; i++)
     {
         printf("%d\t",arr[i]);

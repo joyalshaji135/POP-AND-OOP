@@ -402,7 +402,7 @@
                 49
             </td>
             <td>
-                  Write a program to insert element in an array at specified position.
+                  Write a program to insert element in an array at specified position And identify Duplicate Elements
             </td>
         </tr>
         <tr>
@@ -410,7 +410,7 @@
                 50
             </td>
             <td>
-                  Write a program to print all postive elements in an array.
+                  Write a program to print all postive elements in an array And Delete all Negative Number in an Array.
             </td>
         </tr>
         <tr>
